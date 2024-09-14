@@ -17,6 +17,6 @@ To use this package, add client_web_url as a dependency in your pubspec.yaml fil
 Minimal example:
 
 ```dart
-   WebViewPlugin(url: url,),
+   WebViewPlugin(),
 ```
 
